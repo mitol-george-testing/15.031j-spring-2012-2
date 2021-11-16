@@ -1,0 +1,44 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Business",
+      "Globalization"
+    ],
+    [
+      "Energy"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "International Economics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3c912120-f57d-7cef-288b-f13e6006141a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Energy Decisions, Markets, and Policies",
+  "course_description": "This course examines the choices and constraints regarding sources and uses of energy by households, firms, and governments through a number of frameworks to describe and explain behavior at various levels of aggregation. Examples include a wide range of countries, scope, settings, and analytical approaches.\n\nThis course is one of many [OCW Energy Courses](/courses/energy-courses/), and it is a core subject in MIT's undergraduate [Energy Studies Minor](http://mitei.mit.edu/education/energy-minor/). This Institute-wide program complements the deep expertise obtained in any major with a broad understanding of the interlinked realms of science, technology, and social sciences as they relate to energy and associated environmental challenges.\n",
+  "department_numbers": [
+    "15",
+    "14",
+    "21A",
+    "11"
+  ],
+  "extra_course_numbers": "14.43J,21A.341J,11.161J",
+  "primary_course_number": "15.031J",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
